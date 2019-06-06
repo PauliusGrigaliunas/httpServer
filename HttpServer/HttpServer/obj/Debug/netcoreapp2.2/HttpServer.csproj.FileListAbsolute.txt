@@ -9,3 +9,14 @@ C:\Users\Paulius\source\repos\HttpServer\HttpServer\obj\Debug\netcoreapp2.2\Http
 C:\Users\Paulius\source\repos\HttpServer\HttpServer\obj\Debug\netcoreapp2.2\HttpServer.AssemblyInfo.cs
 C:\Users\Paulius\source\repos\HttpServer\HttpServer\obj\Debug\netcoreapp2.2\HttpServer.dll
 C:\Users\Paulius\source\repos\HttpServer\HttpServer\obj\Debug\netcoreapp2.2\HttpServer.pdb
+C:\Users\Paulius\Documents\GitHub\httpServer\HttpServer\HttpServer\bin\Debug\netcoreapp2.2\HttpServer.deps.json
+C:\Users\Paulius\Documents\GitHub\httpServer\HttpServer\HttpServer\bin\Debug\netcoreapp2.2\HttpServer.runtimeconfig.json
+C:\Users\Paulius\Documents\GitHub\httpServer\HttpServer\HttpServer\bin\Debug\netcoreapp2.2\HttpServer.runtimeconfig.dev.json
+C:\Users\Paulius\Documents\GitHub\httpServer\HttpServer\HttpServer\bin\Debug\netcoreapp2.2\HttpServer.dll
+C:\Users\Paulius\Documents\GitHub\httpServer\HttpServer\HttpServer\bin\Debug\netcoreapp2.2\HttpServer.pdb
+C:\Users\Paulius\Documents\GitHub\httpServer\HttpServer\HttpServer\obj\Debug\netcoreapp2.2\HttpServer.csprojAssemblyReference.cache
+C:\Users\Paulius\Documents\GitHub\httpServer\HttpServer\HttpServer\obj\Debug\netcoreapp2.2\HttpServer.csproj.CoreCompileInputs.cache
+C:\Users\Paulius\Documents\GitHub\httpServer\HttpServer\HttpServer\obj\Debug\netcoreapp2.2\HttpServer.AssemblyInfoInputs.cache
+C:\Users\Paulius\Documents\GitHub\httpServer\HttpServer\HttpServer\obj\Debug\netcoreapp2.2\HttpServer.AssemblyInfo.cs
+C:\Users\Paulius\Documents\GitHub\httpServer\HttpServer\HttpServer\obj\Debug\netcoreapp2.2\HttpServer.dll
+C:\Users\Paulius\Documents\GitHub\httpServer\HttpServer\HttpServer\obj\Debug\netcoreapp2.2\HttpServer.pdb

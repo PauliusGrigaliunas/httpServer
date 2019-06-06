@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Paulius\\source\\repos\\HttpServer\\HttpServer\\HttpServer.csproj",
+      "projectUniqueName": "C:\\Users\\Paulius\\Documents\\GitHub\\httpServer\\HttpServer\\HttpServer\\HttpServer.csproj",
       "projectName": "HttpServer",
-      "projectPath": "C:\\Users\\Paulius\\source\\repos\\HttpServer\\HttpServer\\HttpServer.csproj",
+      "projectPath": "C:\\Users\\Paulius\\Documents\\GitHub\\httpServer\\HttpServer\\HttpServer\\HttpServer.csproj",
       "packagesPath": "C:\\Users\\Paulius\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Paulius\\source\\repos\\HttpServer\\HttpServer\\obj\\",
+      "outputPath": "C:\\Users\\Paulius\\Documents\\GitHub\\httpServer\\HttpServer\\HttpServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
